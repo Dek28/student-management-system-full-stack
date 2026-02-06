@@ -1,0 +1,15 @@
+# Ignore node modules
+**/node_modules/
+
+# Ignore environment files
+**/.env
+**/.env.*
+
+# Ignore build outputs
+**/dist/
+**/build/
+
+# Ignore editor/system files
+.vscode/
+.idea/
+.DS_Store
